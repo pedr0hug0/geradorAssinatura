@@ -36,7 +36,7 @@ slider.oninput = function() {
 
 
     $("#sigla").on("input", (e) => {
-        if (e.target.value != null && e.target.value != undefined) $("#viewSigla").prop("innerHTML", e.target.value.toUpperCase());   
+        if (e.target.value != null && e.target.value != undefined) $("#viewSigla").prop("innerHTML", e.target.value.toUpperCase());
     });
     $("#setor1").on("input", (e) => {
         if (e.target.value != null && e.target.value != undefined) $("#viewSetor1").prop("innerHTML", e.target.value);
@@ -60,3 +60,29 @@ slider.oninput = function() {
     $("#contato").on("input", (e) => {
         if (e.target.value != null && e.target.value != undefined) $("#viewContato").prop("innerHTML", e.target.value);
     });
+
+    //configurações padrões
+    //site
+   
+    $("#site").on("input", (e) => {
+        const value = e.target.value;
+    
+        // Verificar se o valor não é nulo ou indefinido
+        if (value) {
+            // Atualizando o href do #viewSite
+            $("#viewSite").prop("href", value);
+            
+            // Atualizando o innerHTML do #viewSiteText
+            $("#viewSiteText").prop("innerHTML", value);
+            
+            // Atualizando o innerHTML e href do #viewSiteLink
+            $("#viewSiteLink").prop("href", value)
+                              .html(`<b style="font-size:10pt; font-family:Arial,sans-serif; color:#259235;">${value}</b>`);
+        }
+    });
+     //fim site
+
+    $("#logo").on("input", (e) => {
+        if (e.target.value != null && e.target.value != undefined) $("#logoView").prop("src", e.target.value).css("margin-left", "2px");;
+    });
+
