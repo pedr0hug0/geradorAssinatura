@@ -1,0 +1,322 @@
+{
+  "RET": {
+    "site": "https://www.ifsp.edu.br",
+    "logo": "https://www.ifsp.edu.br/images/Marca_IFSP_2015031.png",
+    "youtube": "https://www.youtube.com/user/ifspoficial",
+    "twitter": "https://twitter.com/spo_ifsp",
+    "facebook": "https://www.facebook.com/IFSaoPaulo",
+    "instagram": "http://instagram.com/ifsp_oficial"
+  },
+  "SJP": {
+    "site": "https://sjp.ifsp.edu.br/",
+    "logo": "https://sjp.ifsp.edu.br/images/Logo_Campus/Marca_IFSP_SJP_V-01.png",
+    "youtube": "https://www.youtube.com/c/ifspriopreto",
+    "twitter": "https://www.twitter.com/ifspriopreto/",
+    "facebook": "https://facebook.com/ifspriopreto",
+    "instagram": "https://www.instagram.com/ifsp_riopreto"
+  },
+  "ARQ": {
+    "site": "https://arq.ifsp.edu.br/",
+    "logo": "https://arq.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/arq_ifsp",
+    "twitter": "https://twitter.com/arq_ifsp",
+    "facebook": "https://facebook.com/arq.ifsp",
+    "instagram": "https://www.instagram.com/arq.ifsp"
+  },
+  "AVR": {
+    "site": "https://avr.ifsp.edu.br/",
+    "logo": "https://avr.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/avr_ifsp",
+    "twitter": "https://twitter.com/avr_ifsp",
+    "facebook": "https://facebook.com/avr.ifsp",
+    "instagram": "https://www.instagram.com/avr.ifsp"
+  },
+  "BRT": {
+    "site": "https://brt.ifsp.edu.br",
+    "logo": "https://brt.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/brt_ifsp",
+    "twitter": "https://twitter.com/brt_ifsp",
+    "facebook": "https://facebook.com/brt.ifsp",
+    "instagram": "https://www.instagram.com/brt.ifsp"
+  },
+  "BRU": {
+    "site": "https://bru.ifsp.edu.br/",
+    "logo": "https://bru.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/bru_ifsp",
+    "twitter": "https://twitter.com/bru_ifsp",
+    "facebook": "https://facebook.com/bru.ifsp",
+    "instagram": "https://www.instagram.com/bru.ifsp"
+  },
+  "BRI": {
+    "site": "https://bri.ifsp.edu.br/",
+    "logo": "https://bri.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/bri_ifsp",
+    "twitter": "https://twitter.com/bri_ifsp",
+    "facebook": "https://facebook.com/bri.ifsp",
+    "instagram": "https://www.instagram.com/bri.ifsp"
+  },
+  "BTV": {
+    "site": "https://btv.ifsp.edu.br/",
+    "logo": "https://btv.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/btv_ifsp",
+    "twitter": "https://twitter.com/btv_ifsp",
+    "facebook": "https://facebook.com/btv.ifsp",
+    "instagram": "https://www.instagram.com/btv.ifsp"
+  },
+  "BRA": {
+    "site": "https://bra.ifsp.edu.br/",
+    "logo": "https://bra.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/bra_ifsp",
+    "twitter": "https://twitter.com/bra_ifsp",
+    "facebook": "https://facebook.com/bra.ifsp",
+    "instagram": "https://www.instagram.com/bra.ifsp"
+  },
+  "CMP": {
+    "site": "https://cmp.ifsp.edu.br/",
+    "logo": "https://cmp.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/cmp_ifsp",
+    "twitter": "https://twitter.com/cmp_ifsp",
+    "facebook": "https://facebook.com/cmp.ifsp",
+    "instagram": "https://www.instagram.com/cmp.ifsp"
+  },
+  "CJO": {
+    "site": "https://www.ifspcjo.edu.br/portal",
+    "logo": "https://www.ifspcjo.edu.br/portal/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/cjo_ifsp",
+    "twitter": "https://twitter.com/cjo_ifsp",
+    "facebook": "https://facebook.com/cjo.ifsp",
+    "instagram": "https://www.instagram.com/cjo.ifsp"
+  },
+  "CPV": {
+    "site": "https://cpv.ifsp.edu.br/",
+    "logo": "https://cpv.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/cpv_ifsp",
+    "twitter": "https://twitter.com/cpv_ifsp",
+    "facebook": "https://facebook.com/cpv.ifsp",
+    "instagram": "https://www.instagram.com/cpv.ifsp"
+  },
+  "CAR": {
+    "site": "https://www.ifspcaraguatatuba.edu.br/",
+    "logo": "https://www.ifspcaraguatatuba.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/car_ifsp",
+    "twitter": "https://twitter.com/car_ifsp",
+    "facebook": "https://facebook.com/car.ifsp",
+    "instagram": "https://www.instagram.com/car.ifsp"
+  },
+  "CTD": {
+    "site": "https://ctd.ifsp.edu.br/",
+    "logo": "https://ctd.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/ctd_ifsp",
+    "twitter": "https://twitter.com/ctd_ifsp",
+    "facebook": "https://facebook.com/ctd.ifsp",
+    "instagram": "https://www.instagram.com/ctd.ifsp"
+  },
+  "CBT": {
+    "site": "https://cbt.ifsp.edu.br/",
+    "logo": "https://cbt.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/cbt_ifsp",
+    "twitter": "https://twitter.com/cbt_ifsp",
+    "facebook": "https://facebook.com/cbt.ifsp",
+    "instagram": "https://www.instagram.com/cbt.ifsp"
+  },
+  "GRU": {
+    "site": "https://gru.ifsp.edu.br/",
+    "logo": "https://gru.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/gru_ifsp",
+    "twitter": "https://twitter.com/gru_ifsp",
+    "facebook": "https://facebook.com/gru.ifsp",
+    "instagram": "https://www.instagram.com/gru.ifsp"
+  },
+  "HTO": {
+    "site": "https://hto.ifsp.edu.br/",
+    "logo": "https://hto.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/hto_ifsp",
+    "twitter": "https://twitter.com/hto_ifsp",
+    "facebook": "https://facebook.com/hto.ifsp",
+    "instagram": "https://www.instagram.com/hto.ifsp"
+  },
+  "IST": {
+    "site": "https://ist.ifsp.edu.br/",
+    "logo": "https://ist.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/ist_ifsp",
+    "twitter": "https://twitter.com/ist_ifsp",
+    "facebook": "https://facebook.com/ist.ifsp",
+    "instagram": "https://www.instagram.com/ist.ifsp"
+  },
+  "ITP": {
+    "site": "https://itp.ifsp.edu.br/",
+    "logo": "https://itp.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/itp_ifsp",
+    "twitter": "https://twitter.com/itp_ifsp",
+    "facebook": "https://facebook.com/itp.ifsp",
+    "instagram": "https://www.instagram.com/itp.ifsp"
+  },
+  "ITQ": {
+    "site": "https://itq.ifsp.edu.br/",
+    "logo": "https://itq.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/itq_ifsp",
+    "twitter": "https://twitter.com/itq_ifsp",
+    "facebook": "https://facebook.com/itq.ifsp",
+    "instagram": "https://www.instagram.com/itq.ifsp"
+  },
+  "JCR": {
+    "site": "https://jcr.ifsp.edu.br/",
+    "logo": "https://jcr.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/jcr_ifsp",
+    "twitter": "https://twitter.com/jcr_ifsp",
+    "facebook": "https://facebook.com/jcr.ifsp",
+    "instagram": "https://www.instagram.com/jcr.ifsp"
+  },
+  "JND": {
+    "site": "https://jnd.ifsp.edu.br/",
+    "logo": "https://jnd.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/jnd_ifsp",
+    "twitter": "https://twitter.com/jnd_ifsp",
+    "facebook": "https://facebook.com/jnd.ifsp",
+    "instagram": "https://www.instagram.com/jnd.ifsp"
+  },
+  "MTO": {
+    "site": "http://mto.ifsp.edu.br/",
+    "logo": "http://mto.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/mto_ifsp",
+    "twitter": "https://twitter.com/mto_ifsp",
+    "facebook": "https://facebook.com/mto.ifsp",
+    "instagram": "https://www.instagram.com/mto.ifsp"
+  },
+  "MRC": {
+    "site": "https://mrc.ifsp.edu.br/",
+    "logo": "https://mrc.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/mrc_ifsp",
+    "twitter": "https://twitter.com/mrc_ifsp",
+    "facebook": "https://facebook.com/mrc.ifsp",
+    "instagram": "https://www.instagram.com/mrc.ifsp"
+  },
+  "PRC": {
+    "site": "https://prc.ifsp.edu.br/",
+    "logo": "https://prc.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/prc_ifsp",
+    "twitter": "https://twitter.com/prc_ifsp",
+    "facebook": "https://facebook.com/prc.ifsp",
+    "instagram": "https://www.instagram.com/prc.ifsp"
+  },
+  "PTB": {
+    "site": "https://ptb.ifsp.edu.br/",
+    "logo": "https://ptb.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/ptb_ifsp",
+    "twitter": "https://twitter.com/ptb_ifsp",
+    "facebook": "https://facebook.com/ptb.ifsp",
+    "instagram": "https://www.instagram.com/ptb.ifsp"
+  },
+  "PEP": {
+    "site": "https://pep.ifsp.edu.br/",
+    "logo": "https://pep.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/pep_ifsp",
+    "twitter": "https://twitter.com/pep_ifsp",
+    "facebook": "https://facebook.com/pep.ifsp",
+    "instagram": "https://www.instagram.com/pep.ifsp"
+  },
+  "PRU": {
+    "site": "https://pru.ifsp.edu.br/",
+    "logo": "https://pru.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/pru_ifsp",
+    "twitter": "https://twitter.com/pru_ifsp",
+    "facebook": "https://facebook.com/pru.ifsp",
+    "instagram": "https://www.instagram.com/pru.ifsp"
+  },
+  "RGT": {
+    "site": "https://rgt.ifsp.edu.br/",
+    "logo": "https://rgt.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/rgt_ifsp",
+    "twitter": "https://twitter.com/rgt_ifsp",
+    "facebook": "https://facebook.com/rgt.ifsp",
+    "instagram": "https://www.instagram.com/rgt.ifsp"
+  },
+  "RCL": {
+    "site": "https://rcl.ifsp.edu.br/",
+    "logo": "https://rcl.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/rcl_ifsp",
+    "twitter": "https://twitter.com/rcl_ifsp",
+    "facebook": "https://facebook.com/rcl.ifsp",
+    "instagram": "https://www.instagram.com/rcl.ifsp"
+  },
+  "SLT": {
+    "site": "https://slt.ifsp.edu.br/",
+    "logo": "https://slt.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/slt_ifsp",
+    "twitter": "https://twitter.com/slt_ifsp",
+    "facebook": "https://facebook.com/slt.ifsp",
+    "instagram": "https://www.instagram.com/slt.ifsp"
+  },
+  "SCL": {
+    "site": "https://scl.ifsp.edu.br/",
+    "logo": "https://scl.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/scl_ifsp",
+    "twitter": "https://twitter.com/scl_ifsp",
+    "facebook": "https://facebook.com/scl.ifsp",
+    "instagram": "https://www.instagram.com/scl.ifsp"
+  },
+  "SBV": {
+    "site": "https://sbv.ifsp.edu.br/",
+    "logo": "https://sbv.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/sbv_ifsp",
+    "twitter": "https://twitter.com/sbv_ifsp",
+    "facebook": "https://facebook.com/sbv.ifsp",
+    "instagram": "https://www.instagram.com/sbv.ifsp"
+  },
+  "SJRP": {
+    "site": "https://sjrp.ifsp.edu.br/",
+    "logo": "https://sjrp.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/sjrp_ifsp",
+    "twitter": "https://twitter.com/sjrp_ifsp",
+    "facebook": "https://facebook.com/sjrp.ifsp",
+    "instagram": "https://www.instagram.com/sjrp.ifsp"
+  },
+  "SJC": {
+    "site": "https://sjc.ifsp.edu.br/",
+    "logo": "https://sjc.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/sjc_ifsp",
+    "twitter": "https://twitter.com/sjc_ifsp",
+    "facebook": "https://facebook.com/sjc.ifsp",
+    "instagram": "https://www.instagram.com/sjc.ifsp"
+  },
+  "SMP": {
+    "site": "https://smp.ifsp.edu.br/",
+    "logo": "https://smp.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/smp_ifsp",
+    "twitter": "https://twitter.com/smp_ifsp",
+    "facebook": "https://facebook.com/smp.ifsp",
+    "instagram": "https://www.instagram.com/smp.ifsp"
+  },
+  "SPO": {
+    "site": "https://spo.ifsp.edu.br/",
+    "logo": "https://spo.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/spo_ifsp",
+    "twitter": "https://twitter.com/spo_ifsp",
+    "facebook": "https://facebook.com/spo.ifsp",
+    "instagram": "https://www.instagram.com/spo.ifsp"
+  },
+  "SRQ": {
+    "site": "https://srq.ifsp.edu.br/",
+    "logo": "https://srq.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/srq_ifsp",
+    "twitter": "https://twitter.com/srq_ifsp",
+    "facebook": "https://facebook.com/srq.ifsp",
+    "instagram": "https://www.instagram.com/srq.ifsp"
+  },
+  "TAT": {
+    "site": "https://tat.ifsp.edu.br/",
+    "logo": "https://tat.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/tat_ifsp",
+    "twitter": "https://twitter.com/tat_ifsp",
+    "facebook": "https://facebook.com/tat.ifsp",
+    "instagram": "https://www.instagram.com/tat.ifsp"
+  },
+  "TUP": {
+    "site": "https://tup.ifsp.edu.br/",
+    "logo": "https://tup.ifsp.edu.br/images/logo.png",
+    "youtube": "https://www.youtube.com/channel/tup_ifsp",
+    "twitter": "https://twitter.com/tup_ifsp",
+    "facebook": "https://facebook.com/tup.ifsp",
+    "instagram": "https://www.instagram.com/tup.ifsp"
+  }
+}

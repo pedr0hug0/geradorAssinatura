@@ -26,7 +26,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h3 style="text-align:center">
-					Gerador de Assinatura de E-Mail IFSP.SJP
+					Gerador de Assinatura de E-Mail IFSP
 				</h3>
 			</div>
 		</div>
@@ -196,15 +196,108 @@
 				
 			</div>
 
+			<div class="col-md-4"> 
+				<!-- configurações -->
+				<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+					Configurações Padrões
+				</button></a>
+				
+				<div class="collapse" id="collapseExample">
+					<div class="card card-body">
+						
+						<div class="form-group">
+							<label for="campusSelect">Selecione um Campus</label>
+							<select id="campusSelect" class="form-control">
+								<option value="SJP">Campus São José do Rio Preto</option>
+								<option value="RET">RET</option>
+								<option value="ARQ">Campus Araraquara</option>
+								<option value="AVR">Campus Avaré</option>
+								<option value="BRT">Campus Barretos</option>
+								<option value="BRU">Campus Bauru</option>
+								<option value="BRI">Campus Birigui</option>
+								<option value="BTV">Campus Boituva</option>
+								<option value="BRA">Campus Bragança Paulista</option>
+								<option value="CMP">Campus Campinas</option>
+								<option value="CJO">Campus Campos do Jordão</option>
+								<option value="CPV">Campus Capivari</option>
+								<option value="CAR">Campus Caraguatatuba</option>
+								<option value="CTD">Campus Catanduva</option>
+								<option value="CBT">Campus Cubatão</option>
+								<option value="GRU">Campus Guarulhos</option>
+								<option value="HTO">Campus Hortolândia</option>
+								<option value="IST">Campus Ilha Solteira</option>
+								<option value="ITP">Campus Itapetininga</option>
+								<option value="ITQ">Campus Itaquaquecetuba</option>
+								<option value="JCR">Campus Jacareí</option>
+								<option value="JND">Campus Jundiaí</option>
+								<option value="MTO">Campus Matão</option>
+								<option value="MRC">Campus Miracatu</option>
+								<option value="PRC">Campus Piracicaba</option>
+								<option value="PTB">Campus Pirituba</option>
+								<option value="PEP">Campus Presidente Epitácio</option>
+								<option value="PRU">Campus Presidente Prudente</option>
+								<option value="RGT">Campus Registro</option>
+								<option value="RCL">Campus Rio Claro</option>
+								<option value="SLT">Campus Salto</option>
+								<option value="SCL">Campus São Carlos</option>
+								<option value="SBV">Campus São João da Boa Vista</option>
+								<option value="SJC">Campus São José dos Campos</option>
+								<option value="SMP">Campus São Miguel Paulista</option>
+								<option value="SPO">Campus São Paulo</option>
+								<option value="SRQ">Campus São Roque</option>
+								<option value="SRT">Campus Sertãozinho</option>
+								<option value="SOR">Campus Sorocaba</option>
+								<option value="SZN">Campus Suzano</option>
+								<option value="TUP">Campus Tupã</option>
+								<option value="VTP">Campus Votuporanga</option>
+							</select>
+
+						</div>
 			
-				<!-- Configurações Padrões Ocultas (site, logo, redes sociais)  -->
+						<div class="form-group">
+							<label for="site">Site</label>
+							<input type="text" class="form-control" id="site" value="https://sjp.ifsp.edu.br">
+						</div>
+			
+						<div class="form-group">
+							<label for="logo">Logo</label>
+							<input type="text" class="form-control" id="logo" value="https://sjp.ifsp.edu.br/images/Logo_Campus/Marca_IFSP_SJP_V_01.png">
+						</div>
+			
+						<div class="form-group">
+							<label for="youtube"><i class="fa fa-youtube"></i> Youtube</label>
+							<input type="text" class="form-control" id="youtube" value="https://www.youtube.com/c/ifspriopreto">
+						</div>
+			
+						<div class="form-group">
+							<label for="twitter"><i class="fa fa-twitter"></i> Twitter</label>
+							<input type="text" class="form-control" id="twitter" value="https://www.twitter.com/ifspriopreto/">
+						</div>
+			
+						<div class="form-group">
+							<label for="facebook"><i class="fa fa-facebook"></i> Facebook</label>
+							<input type="text" class="form-control" id="facebook" value="https://facebook.com/ifspriopreto">
+						</div>
+			
+						<div class="form-group">
+							<label for="instagram"><i class="fa fa-instagram"></i> Instagram</label>
+							<input type="text" class="form-control" id="instagram" value="https://www.instagram.com/ifsp_riopreto">
+						</div>
+			
+					</div>
+					<!--fim card body-->
+				</div>
+				<!--fim card config-->
+			</div>			
+			
+				<!-- Configurações Padrões Ocultas (site, logo, redes sociais)  
 				<div class="col-md-4">
 				
-				<!-- configurações (não utilizadas)-->
+				configurações (não utilizadas)
 					
 						<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
 							Configurações Padrões
-						  </button></a>
+						  </button></a> 
 						
 						<div class="collapse" id="collapseExample">
 							<div class="card card-body">
@@ -222,8 +315,7 @@
 									</label>
 									<input type="logo" class="form-control" id="logo"
 										value="https://www.ifsp.edu.br/images/Marca_IFSP_2015031.png">
-										<!--RET https://www.ifsp.edu.br/images/Marca_IFSP_2015031.png -->
-										<!--SJP https://sjp.ifsp.edu.br/images/Logo_Campus/Marca_IFSP_SJP_V_01.png -->
+										
 								</div>
 
 								<div class="form-group">
@@ -260,11 +352,12 @@
 
 
 							</div>
-							<!--fim card body-->
+							fim card body
+							
 						</div>
-						<!--fim card config-->
-					</div>
-					
+						fim card config
+				</div>
+				*/	 -->
 
 				</div>
 			<p></p>
@@ -305,6 +398,7 @@
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"
 			integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
 			crossorigin="anonymous"></script>
+	<script src="js/campus-config.js"></script>
 	
 	<!-- JavaScript Bundle with Popper -->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>

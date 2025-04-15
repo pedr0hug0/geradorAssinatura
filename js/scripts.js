@@ -1,6 +1,6 @@
 
 
-
+//Ajustes colunas
 function changeWidth(c1,c2) {
     document.getElementById("coluna1").style.width = c1+"px";
     document.getElementById("coluna2").style.width = c2+"px";
@@ -16,7 +16,7 @@ slider.oninput = function() {
  }
 
 
-    
+ //Copiar Assinatura   
     function CopyToClipboard(id)
 	{
 	var r = document.createRange();
@@ -34,7 +34,7 @@ slider.oninput = function() {
     });
 
 
-
+//Atualizações de campos por input
     $("#sigla").on("input", (e) => {
         if (e.target.value != null && e.target.value != undefined) $("#viewSigla").prop("innerHTML", e.target.value.toUpperCase());
     });
@@ -80,9 +80,12 @@ slider.oninput = function() {
                               .html(`<b style="font-size:10pt; font-family:Arial,sans-serif; color:#259235;">${value}</b>`);
         }
     });
-     //fim site
+    //fim site
 
     $("#logo").on("input", (e) => {
         if (e.target.value != null && e.target.value != undefined) $("#logoView").prop("src", e.target.value).css("margin-left", "2px");;
     });
 
+    //fim configurações padrões
+
+    
